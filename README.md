@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @knaig
-- 👀 I’m interested in cloud computing, saas, machine learning, crypto/blockchain
-- 🌱 I’m currently learning crypto
+- 👀 I’m interested in cloud computing, saas, machine learning
+- 🌱 I’m currently learning Firebase and DeepLearning
 - 💞️ I’m looking to collaborate on AI/ML
 - 📫 How to reach me ... karthik.naig@gmail.com
 
